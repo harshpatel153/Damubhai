@@ -1,4 +1,4 @@
 # Damubhai
-This is my testing Repository.
+This is My Testing Repository.
 <br>
-Author - Harsh Patel
+Author - Harsh Dholu
